@@ -1,3 +1,11 @@
+[Rently-website]( https://rehabmahmoud20.github.io/Feedback-app/)
+*  this project enables you to delete update edit and add feedback 
+technologies  used are : 
+* React JS
+* json server 
+* Bootstrap 5
+* uuid library
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
