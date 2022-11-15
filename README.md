@@ -1,4 +1,4 @@
-[Rently-website]( https://rehabmahmoud20.github.io/Feedback-app/)
+[feedback]( https://rehabmahmoud20.github.io/Feedback-app/)
 *  this project enables you to delete update edit and add feedback 
 technologies  used are : 
 * React JS
