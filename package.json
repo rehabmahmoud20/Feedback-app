@@ -1,4 +1,5 @@
 {
+  "homepage": "https://heshamali1995.github.io/Feedback-app",
   "name": "feedback",
   "version": "0.1.0",
   "private": true,
@@ -27,6 +28,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "server": "json-server --watch db.json --port 4000",
     "dev": "concurrently \"npm run server\" \"npm start\""
   },
@@ -47,5 +50,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
